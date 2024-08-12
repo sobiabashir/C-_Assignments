@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C # Assignments\\RecipeManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|d:\\c # assignments\\recipemanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\formingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:formingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\recipemanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:recipemanager1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:foodcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|D:\\C # Assignments\\RecipeManager\\formingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D14C93F1-7A6C-4F4B-9CD7-819FE99FC99A}|RecipeManager.csproj|solutionrelative:formingredients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodCategory.cs",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\FoodCategory.cs",
+              "RelativeDocumentMoniker": "FoodCategory.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\FoodCategory.cs",
+              "RelativeToolTip": "FoodCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecipeManager1.cs",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\RecipeManager1.cs",
+              "RelativeDocumentMoniker": "RecipeManager1.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\RecipeManager1.cs",
+              "RelativeToolTip": "RecipeManager1.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAADQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\Recipe.cs",
+              "RelativeDocumentMoniker": "Recipe.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\Recipe.cs",
+              "RelativeToolTip": "Recipe.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormIngredients.cs",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\FormIngredients.cs",
+              "RelativeDocumentMoniker": "FormIngredients.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\FormIngredients.cs",
+              "RelativeToolTip": "FormIngredients.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAAAJEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.288Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\MainForm.cs*",
+              "RelativeToolTip": "MainForm.cs*",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAACoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormIngredients.cs [Design]",
+              "DocumentMoniker": "D:\\C # Assignments\\RecipeManager\\FormIngredients.cs",
+              "RelativeDocumentMoniker": "FormIngredients.cs",
+              "ToolTip": "D:\\C # Assignments\\RecipeManager\\FormIngredients.cs [Design]",
+              "RelativeToolTip": "FormIngredients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:01:25.315Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

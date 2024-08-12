@@ -1,0 +1,35 @@
+C:\Users\sobia\source\repos\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.exe
+C:\Users\sobia\source\repos\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.deps.json
+C:\Users\sobia\source\repos\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.runtimeconfig.json
+C:\Users\sobia\source\repos\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.dll
+C:\Users\sobia\source\repos\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.pdb
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.csproj.AssemblyReference.cache
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.csproj.GenerateResource.cache
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.AssemblyInfoInputs.cache
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.AssemblyInfo.cs
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.csproj.CoreCompileInputs.cache
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.dll
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\refint\RecipeManager.dll
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.pdb
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.genruntimeconfig.cache
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\ref\RecipeManager.dll
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.FormIngredients.resources
+C:\Users\sobia\source\repos\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.MainForm.resources
+D:\C # Assignments\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.exe
+D:\C # Assignments\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.deps.json
+D:\C # Assignments\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.runtimeconfig.json
+D:\C # Assignments\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.dll
+D:\C # Assignments\RecipeManager\bin\Debug\net6.0-windows\RecipeManager.pdb
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.FormIngredients.resources
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.MainForm.resources
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.csproj.GenerateResource.cache
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.AssemblyInfoInputs.cache
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.AssemblyInfo.cs
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.csproj.CoreCompileInputs.cache
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.dll
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\refint\RecipeManager.dll
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.pdb
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\RecipeManager.genruntimeconfig.cache
+D:\C # Assignments\RecipeManager\obj\Debug\net6.0-windows\ref\RecipeManager.dll
